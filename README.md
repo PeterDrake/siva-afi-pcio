@@ -1,7 +1,7 @@
 # siva-afi-pcio
 Instructions for playing the Siva Afi card game on playingcards.io
 
-1. Download this file:
+1. Download https://github.com/PeterDrake/siva-afi-pcio/raw/main/siva-afi.pcio
 1. Create a room:
     1. Got to http://playingcards.io/
     1. Scroll down to the bottom and click on “Custom Room”
