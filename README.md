@@ -19,5 +19,6 @@ Instructions for playing the Siva Afi card game on playingcards.io
     1. Copy the URL there and send it to your other player
 
 Note:
--playingcards.io is just a simulation of the cards. It doesn't keep track of the rules for you.
--You can buy the physical game, and watch the how to play video, at https://www.thegamecrafter.com/games/siva-afi:-the-fireknife-dance-of-samoa
+- playingcards.io just simulates the cards. It doesn't keep track of the rules for you.
+- General instructions on using playingcards.io are at https://playingcards.io/docs/overview
+- You can buy the physical game, and watch the how to play video, at https://www.thegamecrafter.com/games/siva-afi:-the-fireknife-dance-of-samoa
